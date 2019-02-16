@@ -1,0 +1,116 @@
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\Khomenko_Is61.dll.config
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\Khomenko_Is61.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\Khomenko_Is61.pdb
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\csc.exe
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\csc.exe.config
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\csc.rsp
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\csi.exe
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\csi.exe.config
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\csi.rsp
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.AppContext.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Console.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\vbc.exe
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\vbc.exe.config
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\vbc.rsp
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\obj\Debug\Khomenko_Is61.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\obj\Debug\Khomenko_Is61.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\obj\Debug\Khomenko_Is61.csproj.CopyComplete
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\obj\Debug\Khomenko_Is61.dll
+C:\Users\Alex\source\repos\Khomenko_Is61\Khomenko_Is61\obj\Debug\Khomenko_Is61.pdb
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\Khomenko_Is61.dll.config
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\Khomenko_Is61.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\Khomenko_Is61.pdb
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\csc.exe
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\csc.exe.config
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\csc.rsp
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\csi.exe
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\csi.exe.config
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\csi.rsp
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.AppContext.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Collections.Immutable.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Console.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Diagnostics.Process.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.IO.Compression.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.IO.FileSystem.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.IO.Pipes.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Reflection.Metadata.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Security.AccessControl.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Security.Claims.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Threading.Thread.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.ValueTuple.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Xml.XPath.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\vbc.exe
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\vbc.exe.config
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\vbc.rsp
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\VBCSCompiler.exe
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\roslyn\VBCSCompiler.exe.config
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\obj\Debug\Khomenko_Is61.csprojResolveAssemblyReference.cache
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\obj\Debug\Khomenko_Is61.csproj.CoreCompileInputs.cache
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\obj\Debug\Khomenko_Is61.csproj.CopyComplete
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\obj\Debug\Khomenko_Is61.dll
+C:\Бази даних\Khomenko_Is61\Khomenko_Is61\obj\Debug\Khomenko_Is61.pdb
